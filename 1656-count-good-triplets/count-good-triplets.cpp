@@ -6,9 +6,9 @@ public:
         int i = 0, j = 0,k = 0;
         for(i = 0; i < arr.size(); i++) {
             j = i + 1;
-            for(;j < arr.size(); j++) {
+            while(j < arr.size()) {
                 k = j + 1;
-                for(; k < arr.size(); k++) {
+                while(k < arr.size()) {
                     if(abs(arr[i] - arr[j]) <= a) {
                         if(abs(arr[j] - arr[k]) <= b) {
                             if(abs(arr[i] - arr[k]) <= c) {
@@ -16,7 +16,9 @@ public:
                             }
                         }
                     }
+                    k++;
                 }
+                j++;
             }
         }
 
