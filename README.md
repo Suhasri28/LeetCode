@@ -1,2 +1,2 @@
-# LeetCode
-My Leetcode Submissions
+# LeetCode and GFG Submissions
+
