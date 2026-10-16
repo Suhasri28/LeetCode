@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -13,14 +13,16 @@
   "syncedProblems": {
     "GeeksForGeeks_Digits_in_N_that_Divide_it": true,
     "GeeksForGeeks_LCM_And_GCD": true,
-    "GeeksForGeeks_Armstrong_Numbers": true
+    "GeeksForGeeks_Armstrong_Numbers": true,
+    "LeetCode_Palindrome_Number": true
   },
   "activityHistory": {
-    "2026-10-16": 3
+    "2026-10-16": 4
   },
   "todayProblems": [
     "Digits in N that Divide it",
     "LCM And GCD",
-    "Armstrong Numbers"
+    "Armstrong Numbers",
+    "Palindrome Number"
   ]
 }
