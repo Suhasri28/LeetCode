@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Digits_in_N_that_Divide_it": true
+    "GeeksForGeeks_Digits_in_N_that_Divide_it": true,
+    "GeeksForGeeks_LCM_And_GCD": true
   },
   "activityHistory": {
-    "2026-10-16": 1
+    "2026-10-16": 2
   },
   "todayProblems": [
-    "Digits in N that Divide it"
+    "Digits in N that Divide it",
+    "LCM And GCD"
   ]
 }
