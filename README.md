@@ -4,3 +4,4 @@
 | 2 | [LCM And GCD](./GeeksForGeeks/Easy/LCM%20And%20GCD) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | Easy | 16 Oct 2026 | 09:57 pm |
 | 3 | [Armstrong Numbers](./GeeksForGeeks/Easy/Armstrong%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | Easy | 16 Oct 2026 | 10:42 pm |
 | 4 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 16 Oct 2026 | 11:25 pm |
+| 5 | [Sum 1 to n Divisors](./GeeksForGeeks/Easy/Sum%201%20to%20n%20Divisors) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | Easy | 18 Oct 2026 | 12:11 am |
