@@ -10,3 +10,4 @@
 | 8 | [1 to n Without Loop](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 18 Oct 2026 | 09:45 pm |
 | 9 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?utm_medium=collab_striver_ytdescription&utm_campaign=print-n-to-1-without-loop&utm_source=youtube) | Basic | 18 Oct 2026 | 09:50 pm |
 | 10 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1?page=1&difficulty=Basic&sortBy=submissions) | Basic | 18 Oct 2026 | 09:52 pm |
+| 11 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 18 Oct 2026 | 09:57 pm |
