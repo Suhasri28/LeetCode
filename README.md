@@ -8,3 +8,4 @@
 | 6 | [Prime Number](./GeeksForGeeks/Easy/Prime%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/prime-number2314/1) | Easy | 18 Oct 2026 | 12:48 am |
 | 7 | [Print GFG n times](./GeeksForGeeks/Basic/Print%20GFG%20n%20times) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1?utm_medium=collab_striver_ytdescription&utm_campaign=print-gfg-n-times&utm_source=youtube) | Basic | 18 Oct 2026 | 01:15 pm |
 | 8 | [1 to n Without Loop](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 18 Oct 2026 | 09:45 pm |
+| 9 | [Print n to 1 Without Loop](./GeeksForGeeks/Basic/Print%20n%20to%201%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1?utm_medium=collab_striver_ytdescription&utm_campaign=print-n-to-1-without-loop&utm_source=youtube) | Basic | 18 Oct 2026 | 09:50 pm |
