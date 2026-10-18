@@ -12,3 +12,4 @@
 | 10 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1?page=1&difficulty=Basic&sortBy=submissions) | Basic | 18 Oct 2026 | 09:52 pm |
 | 11 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 18 Oct 2026 | 09:57 pm |
 | 12 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 18 Oct 2026 | 09:59 pm |
+| 13 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 19 Oct 2026 | 12:39 am |
