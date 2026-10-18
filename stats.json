@@ -1,14 +1,14 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 5,
     "medium": 1,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "GeeksForGeeks_Digits_in_N_that_Divide_it": true,
@@ -19,17 +19,19 @@
     "GeeksForGeeks_Prime_Number": true,
     "GeeksForGeeks_Print_GFG_n_times": true,
     "GeeksForGeeks_1_to_n_Without_Loop": true,
-    "GeeksForGeeks_Print_n_to_1_Without_Loop": true
+    "GeeksForGeeks_Print_n_to_1_Without_Loop": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
   "activityHistory": {
     "2026-10-16": 4,
-    "2026-10-18": 5
+    "2026-10-18": 6
   },
   "todayProblems": [
     "Sum 1 to n Divisors",
     "Prime Number",
     "Print GFG n times",
     "1 to n Without Loop",
-    "Print n to 1 Without Loop"
+    "Print n to 1 Without Loop",
+    "Sum of Natural Numbers"
   ]
 }
