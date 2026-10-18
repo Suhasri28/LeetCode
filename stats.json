@@ -1,14 +1,14 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 5,
     "medium": 1,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "GeeksForGeeks_Digits_in_N_that_Divide_it": true,
@@ -16,14 +16,16 @@
     "GeeksForGeeks_Armstrong_Numbers": true,
     "LeetCode_Palindrome_Number": true,
     "GeeksForGeeks_Sum_1_to_n_Divisors": true,
-    "GeeksForGeeks_Prime_Number": true
+    "GeeksForGeeks_Prime_Number": true,
+    "GeeksForGeeks_Print_GFG_n_times": true
   },
   "activityHistory": {
     "2026-10-16": 4,
-    "2026-10-18": 2
+    "2026-10-18": 3
   },
   "todayProblems": [
     "Sum 1 to n Divisors",
-    "Prime Number"
+    "Prime Number",
+    "Print GFG n times"
   ]
 }
