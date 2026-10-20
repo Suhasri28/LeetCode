@@ -1,14 +1,14 @@
 {
-  "totalSolved": 16,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-10-19",
-  "todayCount": 4,
+  "totalSolved": 17,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-10-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 9,
     "medium": 2,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "GeeksForGeeks_Digits_in_N_that_Divide_it": true,
@@ -26,17 +26,16 @@
     "GeeksForGeeks_Reverse_Array": true,
     "LeetCode_Valid_Palindrome": true,
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
-    "GeeksForGeeks_Top_K_Frequent_in_Array": true
+    "GeeksForGeeks_Top_K_Frequent_in_Array": true,
+    "GeeksForGeeks_Largest_in_Array": true
   },
   "activityHistory": {
     "2026-10-16": 4,
     "2026-10-18": 8,
-    "2026-10-19": 4
+    "2026-10-19": 4,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Reverse Array",
-    "Valid Palindrome",
-    "Frequencies in a Limited Array",
-    "Top K Frequent in Array"
+    "Largest in Array"
   ]
 }
