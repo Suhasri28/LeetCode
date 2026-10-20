@@ -1,11 +1,11 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 2,
     "hard": 0,
     "basic": 6
@@ -27,15 +27,17 @@
     "LeetCode_Valid_Palindrome": true,
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
     "GeeksForGeeks_Top_K_Frequent_in_Array": true,
-    "GeeksForGeeks_Largest_in_Array": true
+    "GeeksForGeeks_Largest_in_Array": true,
+    "GeeksForGeeks_Second_Largest": true
   },
   "activityHistory": {
     "2026-10-16": 4,
     "2026-10-18": 8,
     "2026-10-19": 4,
-    "2026-10-20": 1
+    "2026-10-20": 2
   },
   "todayProblems": [
-    "Largest in Array"
+    "Largest in Array",
+    "Second Largest"
   ]
 }
