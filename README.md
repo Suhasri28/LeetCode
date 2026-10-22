@@ -21,3 +21,4 @@
 | 19 | [Check if Array Is Sorted and Rotated](./LeetCode/Easy/Check%20if%20Array%20Is%20Sorted%20and%20Rotated) | [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | 20 Oct 2026 | 09:01 pm |
 | 20 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 21 Oct 2026 | 09:04 pm |
 | 21 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 21 Oct 2026 | 09:29 pm |
+| 22 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 22 Oct 2026 | 11:07 am |
