@@ -23,3 +23,4 @@
 | 21 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 21 Oct 2026 | 09:29 pm |
 | 22 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 22 Oct 2026 | 11:07 am |
 | 23 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 23 Oct 2026 | 01:25 am |
+| 24 | [Binary Search](./GeeksForGeeks/Basic/Binary%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win&utm_source=youtube) | Basic | 23 Oct 2026 | 02:01 am |
