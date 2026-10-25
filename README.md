@@ -26,3 +26,4 @@
 | 24 | [Binary Search](./GeeksForGeeks/Basic/Binary%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1?utm_medium=collab_striver_ytdescription&utm_campaign=who-will-win&utm_source=youtube) | Basic | 23 Oct 2026 | 02:01 am |
 | 25 | [Union of 2 Sorted Arrays](./GeeksForGeeks/Medium/Union%20of%202%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays&utm_source=youtube) | Medium | 23 Oct 2026 | 10:42 pm |
 | 26 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 24 Oct 2026 | 12:06 am |
+| 27 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 25 Oct 2026 | 10:24 pm |
