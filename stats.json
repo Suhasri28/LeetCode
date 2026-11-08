@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 1,
   "maxStreak": 9,
-  "lastSyncDate": "2026-11-06",
+  "lastSyncDate": "2026-11-08",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 16,
+    "easy": 17,
     "medium": 5,
     "hard": 0,
     "basic": 8
@@ -39,7 +39,8 @@
     "LeetCode_Missing_Number": true,
     "LeetCode_Max_Consecutive_Ones": true,
     "LeetCode_Single_Number": true,
-    "GeeksForGeeks_Longest_Subarray_with_Sum_K": true
+    "GeeksForGeeks_Longest_Subarray_with_Sum_K": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
     "2026-10-16": 4,
@@ -52,9 +53,10 @@
     "2026-10-24": 1,
     "2026-10-25": 1,
     "2026-10-26": 1,
-    "2026-11-06": 1
+    "2026-11-06": 1,
+    "2026-11-08": 1
   },
   "todayProblems": [
-    "Longest Subarray with Sum K"
+    "Two Sum"
   ]
 }
