@@ -31,3 +31,4 @@
 | 29 | [Longest Subarray with Sum K](./GeeksForGeeks/Medium/Longest%20Subarray%20with%20Sum%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k&utm_source=youtube) | Medium | 06 Nov 2026 | 08:42 pm |
 | 30 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 08 Nov 2026 | 08:24 pm |
 | 31 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 09 Nov 2026 | 09:55 pm |
+| 32 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 11 Nov 2026 | 12:35 am |
