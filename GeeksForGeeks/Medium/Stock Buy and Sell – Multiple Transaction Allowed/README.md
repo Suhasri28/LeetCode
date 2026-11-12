@@ -1,0 +1,13 @@
+# Stock Buy and Sell – Multiple Transaction Allowed
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1?utm_campaign=stock-buy-and-sell&query=company%5B%5DIntuit%2Bpage1&page=1&utm_medium=collab_striver_ytdescription&company%5B%5D=Intuit%2B&utm_source=youtube)
+
+## Solved On
+12 Nov 2026 at 10:48 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1?utm_campaign=stock-buy-and-sell&query=company%5B%5DIntuit%2Bpage1&page=1&utm_medium=collab_striver_ytdescription&company%5B%5D=Intuit%2B&utm_source=youtube">Stock Buy and Sell – Multiple Transaction Allowed</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 14pt;">Given an integer array <strong>prices[]</strong>, where <strong>prices[i]</strong> is the price of a given stock on the ith day. Each day you may decide to either buy or sell the stock at <strong>price[i]</strong>, you can even buy and sell the stock on the same day, return the <strong>maximum profit</strong> that you can get.<br></span></p><p><span style="font-size: 14pt;"><strong>Note</strong>: A stock can only be sold if it has been bought previously and multiple stocks cannot be held on any given day.</span></p><p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p><pre><span style="font-size: 14pt;"><strong>Input: </strong></span><span style="font-size: 14pt;">prices[] = [100, 180, 260, 310, 40, 535, 695]</span><br><span style="font-size: 14pt;"><strong>Output: </strong></span><span style="font-size: 14pt;">865</span><br><span style="font-size: 14pt;"><strong>Explanation: </strong></span><span style="font-size: 18.6667px;">Buy the stock on day 0 and sell it on day 3 =&gt; 310 – 100 = 210. Buy the stock on day 4 and sell it on day 6 =&gt; 695 – 40 = 655. Maximum Profit = 210 + 655 = 865.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/878914/Web/Other/blobid2_1731054745.png" width="324" height="200"><br><br></span><span style="font-size: 14pt;"><strong>Input: </strong></span><span style="font-size: 14pt;">prices[] = [4, 2, 2, 2, 4]</span><br><span style="font-size: 14pt;"><strong>Output: </strong></span><span style="font-size: 14pt;">2</span><br><span style="font-size: 14pt;"><strong>Explanation: </strong></span><span style="font-size: 18.6667px;">Buy the stock on day 3 and sell it on day 4 =&gt; 4 – 2 = 2. Maximum Profit = 2.</span></pre>
