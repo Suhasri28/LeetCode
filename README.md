@@ -34,3 +34,4 @@
 | 32 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 11 Nov 2026 | 12:35 am |
 | 33 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 11 Nov 2026 | 03:01 pm |
 | 34 | [Max Sum of 2 Smallest Across Subarrays](./GeeksForGeeks/Medium/Max%20Sum%20of%202%20Smallest%20Across%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1?utm_medium=collab_striver_ytdescription&category=&utm_source=youtube&utm_campaign=max-sum-in-sub-arrays) | Medium | 12 Nov 2026 | 12:12 pm |
+| 35 | [Best Time to Buy and Sell Stock](./LeetCode/Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 12 Nov 2026 | 10:00 pm |
