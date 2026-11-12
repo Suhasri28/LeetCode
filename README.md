@@ -33,3 +33,4 @@
 | 31 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 09 Nov 2026 | 09:55 pm |
 | 32 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 11 Nov 2026 | 12:35 am |
 | 33 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 11 Nov 2026 | 03:01 pm |
+| 34 | [Max Sum of 2 Smallest Across Subarrays](./GeeksForGeeks/Medium/Max%20Sum%20of%202%20Smallest%20Across%20Subarrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/1?utm_medium=collab_striver_ytdescription&category=&utm_source=youtube&utm_campaign=max-sum-in-sub-arrays) | Medium | 12 Nov 2026 | 12:12 pm |
