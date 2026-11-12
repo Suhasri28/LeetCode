@@ -1,11 +1,11 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 3,
   "maxStreak": 9,
   "lastSyncDate": "2026-11-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 11,
     "hard": 0,
     "basic": 8
@@ -47,8 +47,9 @@
     "LeetCode_Maximum_Subarray": true,
     "GeeksForGeeks_Max_Sum_of_2_Smallest_Across_Subarrays": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_â_Multiple_Transaction_Allowed": true,
-    "LeetCode_Rearrange_Array_Elements_by_Sign": true
+    "GeeksForGeeks_Stock_Buy_and_Sell_Ã¢ÂÂ_Multiple_Transaction_Allowed": true,
+    "LeetCode_Rearrange_Array_Elements_by_Sign": true,
+    "GeeksForGeeks_Alternate_Positive_Negative": true
   },
   "activityHistory": {
     "2026-10-16": 4,
@@ -66,9 +67,10 @@
     "2026-11-09": 1,
     "2026-11-11": 3,
     "2026-11-12": 3,
-    "2026-11-13": 1
+    "2026-11-13": 2
   },
   "todayProblems": [
-    "Rearrange Array Elements by Sign"
+    "Rearrange Array Elements by Sign",
+    "Alternate Positive Negative"
   ]
 }
