@@ -1,12 +1,12 @@
 {
-  "totalSolved": 43,
-  "currentStreak": 1,
+  "totalSolved": 44,
+  "currentStreak": 2,
   "maxStreak": 9,
-  "lastSyncDate": "2026-11-19",
+  "lastSyncDate": "2026-11-20",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 14,
+    "medium": 15,
     "hard": 0,
     "basic": 8
   },
@@ -47,13 +47,14 @@
     "LeetCode_Maximum_Subarray": true,
     "GeeksForGeeks_Max_Sum_of_2_Smallest_Across_Subarrays": true,
     "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true,
-    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Multiple_Transaction_Allowed": true,
+    "GeeksForGeeks_Stock_Buy_and_Sell_ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ_Multiple_Transaction_Allowed": true,
     "LeetCode_Rearrange_Array_Elements_by_Sign": true,
     "GeeksForGeeks_Alternate_Positive_Negative": true,
     "GeeksForGeeks_Array_Leaders": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
     "GeeksForGeeks_Longest_Consecutive_Subsequence": true,
-    "LeetCode_Set_Matrix_Zeroes": true
+    "LeetCode_Set_Matrix_Zeroes": true,
+    "LeetCode_Rotate_Image": true
   },
   "activityHistory": {
     "2026-10-16": 4,
@@ -73,9 +74,10 @@
     "2026-11-12": 3,
     "2026-11-13": 4,
     "2026-11-16": 1,
-    "2026-11-19": 1
+    "2026-11-19": 1,
+    "2026-11-20": 1
   },
   "todayProblems": [
-    "Set Matrix Zeroes"
+    "Rotate Image"
   ]
 }
